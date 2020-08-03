@@ -1,1 +1,3 @@
-chao mung ban den voi khoa hoc PHP
+<?php 
+	echo "Ma nguon PHP"
+ ?>
